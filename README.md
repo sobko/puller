@@ -1,4 +1,4 @@
-##Puller
+Puller
 
 This script is for teachers of CS50AP.  It will let you pull all the student folders for a single assignment, into a folder that you name.  There are a few requirements that your workspace must meet.
 
@@ -6,7 +6,9 @@ This script is for teachers of CS50AP.  It will let you pull all the student fol
 - Put a file in the same folder as puller.py called names.txt.  This file should have the github names of your students, along with the names you want their folders to have.  It should look like this:
 
 Githubname1,foldername1
+
 Githubname2,foldername2
+
 etc.
 
 At the moment, if a student has not turned in an assignment, puller does not notify the user.  There will simply not be a folder created for that user.
