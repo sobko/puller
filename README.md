@@ -1,5 +1,4 @@
-
-#Puller
+## Puller ##
 
 This script is for teachers of CS50AP.  It will let you pull all the student folders for a single assignment, into a folder that you name.  There are a few requirements that your workspace must meet.
 
