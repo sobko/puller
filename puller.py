@@ -34,9 +34,9 @@ def get_projects():
     #Load Names
 
     try:
-        file = open("/home/ubuntu/workspace/automation/names.txt", "r")
+        file = open("names.txt", "r")
     except:
-        print("No file names.txt, in ~/workspace/automation/")
+        print("No file names.txt")
         return
 
     #make the assignment folder.  If it already exists, make a new one with today's date appended.
