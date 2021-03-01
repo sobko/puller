@@ -6,6 +6,7 @@ This script is for teachers of CS50AP.  It will let you pull all the student fol
 - Put a file in the same folder as puller.py called names.txt.  This file should have the github names of your students, along with the names you want their folders to have.  It should look like this:
 
 foldername1,Githubname1
+
 foldername2,Githubname2
 
 
